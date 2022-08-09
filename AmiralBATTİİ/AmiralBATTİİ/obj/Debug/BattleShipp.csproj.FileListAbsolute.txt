@@ -1,0 +1,13 @@
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\bin\Debug\AmiralBATTİİ.exe.config
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\bin\Debug\AmiralBATTİİ.exe
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\bin\Debug\AmiralBATTİİ.pdb
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\BattleShipp.csprojAssemblyReference.cache
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.EnemySelect.resources
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.Form1.resources
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.OfferingGame.resources
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.Properties.Resources.resources
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.ServerConnectionPanel.resources
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\BattleShipp.csproj.GenerateResource.cache
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\BattleShipp.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.exe
+C:\Users\irem turgut\Desktop\Staj proje\AmiralBATTİİ\AmiralBATTİİ\obj\Debug\AmiralBATTİİ.pdb
