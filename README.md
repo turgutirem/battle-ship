@@ -65,6 +65,6 @@ Tasarlanan oyun bizim uygulamamızda nasıl çalışıyor olacak?
 
 -->Oyun kurallara göre oynanacak ve tüm gemileri vuran kazanacak.
 
--->İyi ounlar..
+-->İyi oyunlar..
 
 
