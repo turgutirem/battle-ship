@@ -6,6 +6,8 @@ yapmak.
 Teknoloji:C# dili ve Visual Studio Windows Form Uygulaması.
 
 Oyun Kuralları:
+
+
 -2 kişiyle oynanır.
 -Oyuncular birbirlerinin gemilerini görmemelidirler.
 -Gemiler oyun alanında istenilen yere yerleştirebilir.
