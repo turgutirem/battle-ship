@@ -26,8 +26,13 @@ Classlar:
 --AsynchronousSocketListener->Server için gerekli methodlar tanımlandı.
 
 Oyun Tasarımı:
--![a](https://user-images.githubusercontent.com/60553003/185487762-06a3abcb-3d3c-4f0c-8f36-7c69f728a00d.png)
+
+
+![a](https://user-images.githubusercontent.com/60553003/185487762-06a3abcb-3d3c-4f0c-8f36-7c69f728a00d.png)
 ![b](https://user-images.githubusercontent.com/60553003/185487775-72733af5-e2aa-4e71-930f-f29e5b0931fb.png)
+![image](https://user-images.githubusercontent.com/60553003/185487919-fc1206e1-0604-4e60-81f4-e4597fac3c2c.png)
+![image](https://user-images.githubusercontent.com/60553003/185487945-e0a618fe-7df6-430d-99ca-97e3c6fbd196.png)
+![image](https://user-images.githubusercontent.com/60553003/185487970-df2ba2c2-66ca-492c-a1f1-a16018568c6e.png)
 
 
 
