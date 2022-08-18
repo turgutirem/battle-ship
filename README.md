@@ -6,6 +6,7 @@ yapmak.
 Teknoloji:C# dili ve Visual Studio Windows Form Uygulaması.
 
 Oyun Kuralları:
+
 -2 kişiyle oynanır.
 
 -Oyuncular birbirlerinin gemilerini görmemelidirler.
@@ -23,6 +24,7 @@ Oyun Kuralları:
 -Rakibinin tüm gemilerini batıran ilk oyuncu oyunu kazanır.
 
 Classlar:
+
 -Server Bağlan-->Ip adresi ve kullanıcı adı ile server'a bağlanıyoruz.
 
 -Enemy Select-->Burada server'a bağlı kullanıcılar listeleniyor ve istenilen kullanıcı seçiliip oyuna davet isteği gönderiliyor.
@@ -54,6 +56,7 @@ Oyun Tasarımı:
 
 
 Tasarlanan oyun bizim uygulamamızda nasıl çalışıyor olacak?
+
 -->İlk olarak giriş sayfaasında kullanıcı bir nickname ve serverdaki ip ile oyuna giriş yapacak ve lobby' e yönlenecek ardından online olan diğer oyuncularaoyun isteği yollayıp kabul aldığında oyun başlayacak.
 
 -->Oyun kuralları gereğince oyuncu gemileri ekrandaki bilgilere göre  map'e yerleştirerek hazır olduğunda PLAY butonuna basacak.
